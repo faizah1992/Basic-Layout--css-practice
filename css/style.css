@@ -1,3 +1,26 @@
-body {
-    background: lightblue;
+
+header {
+
+    background-color: black;
+    color: cornsilk;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+
+main {
+    background-color: lavenderblush;
+    width: 1000px;
+    padding: 25px ;
+    border: solid black 5px;
+}
+
+footer {
+    background-color: black;
+    color: cornsilk;
+    text-align: center;
+    padding-bottom: 25px;
+    padding: 25px 0;
+    margin-top: 25px;
 }
